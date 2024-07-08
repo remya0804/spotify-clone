@@ -1,0 +1,7 @@
+1. tailwind install 
+
+   https://tailwindcss.com/docs/guides/create-react-app
+
+2. h-screen
+
+The h-screen class sets the height of the element to the height of the screen, which means that the element will expand to fill the height of the viewport.
