@@ -36,7 +36,7 @@ const Frontpage = () => {
 
         <Routes>
 
-            <Route path='/' element={<Home />}> </Route>
+            <Route path='/spotify-clone' element={<Home />}> </Route>
             <Route path='/album/:id' element={<Albumpage /> }>  </Route>
         </Routes>
         
