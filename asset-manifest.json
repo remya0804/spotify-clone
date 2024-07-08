@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/spotify-clone/static/css/main.24df44f8.css",
+    "main.js": "/spotify-clone/static/js/main.c675b631.js",
+    "static/media/aishwarya_7.mp3": "/spotify-clone/static/media/aishwarya_7.8cf109c230498ba71877.mp3",
+    "static/media/parvathy_3.mp3": "/spotify-clone/static/media/parvathy_3.d89f99d8113dc592ab77.mp3",
+    "static/media/nayanthara_1.mp3": "/spotify-clone/static/media/nayanthara_1.5d369f614c499899cbe7.mp3",
+    "static/media/ahana_2.mp3": "/spotify-clone/static/media/ahana_2.ff3f4521e1ef18da8aaf.mp3",
+    "static/media/adhithi_4.mp3": "/spotify-clone/static/media/adhithi_4.0b8e79a7f2da1242eab6.mp3",
+    "static/media/dharshana_5.mp3": "/spotify-clone/static/media/dharshana_5.69f6c5f587609f75e8aa.mp3",
+    "static/media/namitha_6.mp3": "/spotify-clone/static/media/namitha_6.c8fc786dce4af606517e.mp3",
+    "static/media/a7.jpeg": "/spotify-clone/static/media/a7.f361c9f1dcaf7d8c419e.jpeg",
+    "static/media/a2.jpeg": "/spotify-clone/static/media/a2.a9ba73a578584d3794d4.jpeg",
+    "static/media/a4.jpeg": "/spotify-clone/static/media/a4.0068f5134ef68ea4f1e8.jpeg",
+    "static/media/s5.jpeg": "/spotify-clone/static/media/s5.79f9a59993bedb544391.jpeg",
+    "static/media/s4.jpeg": "/spotify-clone/static/media/s4.7aebce4579732e9d880a.jpeg",
+    "static/media/s2.jpeg": "/spotify-clone/static/media/s2.2cf1fff64bd144cd0a83.jpeg",
+    "static/media/a3.jpeg": "/spotify-clone/static/media/a3.f8de5d8471e167a128af.jpeg",
+    "index.html": "/spotify-clone/index.html",
+    "main.24df44f8.css.map": "/spotify-clone/static/css/main.24df44f8.css.map",
+    "main.c675b631.js.map": "/spotify-clone/static/js/main.c675b631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24df44f8.css",
+    "static/js/main.c675b631.js"
+  ]
+}
